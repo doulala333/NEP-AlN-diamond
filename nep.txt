@@ -2,7 +2,7 @@ nep3 3 Al N C
 cutoff 8 5
 n_max 12 8
 basis_size 8 8
-l_max 4 0 0
+l_max 4 2 0
 ANN 60 0
  -2.3720286e+00
   1.0118655e+00
